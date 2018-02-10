@@ -1,0 +1,12 @@
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/mohammedaliyu136/git-tutorials.git
+git push -u origin master
+
+git remote add origin https://github.com/mohammedaliyu136/git-tutorials.git
+git push -u origin master
+
+git clone https://github.com/mohammedaliyu136/project
+git pull origin master
+git push origin master
